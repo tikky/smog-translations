@@ -53,3 +53,4 @@ $lang['no'] = 'Nie';
 $lang['privacy_policy'] = 'Polityka prywatności';
 $lang['contact'] = 'Kontakt'; //dział kontakt na stronie
 $lang['about_company'] = 'O firmie';
+$lang['order_sensor'] = 'Zamów sensor';

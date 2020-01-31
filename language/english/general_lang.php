@@ -53,3 +53,4 @@ $lang['no'] = 'No';
 $lang['privacy_policy'] = 'Privacy policy';
 $lang['contact'] = 'Contact';
 $lang['about_company'] = 'About company';
+$lang['order_sensor'] = 'Order sensor';
