@@ -36,6 +36,7 @@ $lang['information'] = 'Information';
 $lang['of_norm'] = 'of the norm';
 $lang['pollution'] = 'Air pollution';
 $lang['last_added'] = 'Last added';
+$lang['no_data'] = 'No data';
 
 //shortest as possible
 $lang['very_low'] = 'Very low';
