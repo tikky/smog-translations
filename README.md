@@ -1,0 +1,2 @@
+# smog-translations
+translations files
