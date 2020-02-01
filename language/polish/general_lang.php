@@ -36,6 +36,7 @@ $lang['information'] = 'Informacje';
 $lang['of_norm'] = 'normy';
 $lang['pollution'] = 'Zanieczyszczenie';
 $lang['last_added'] = 'Ostatnio dodane';
+$lang['no_data'] = 'Brak danych';
 
 //Jak najkrótsze tłumacznenia poniżych pięciu
 $lang['very_low'] = 'Najniższy'; 
@@ -52,3 +53,12 @@ $lang['no'] = 'Nie';
 $lang['privacy_policy'] = 'Polityka prywatności';
 $lang['contact'] = 'Kontakt'; //dział kontakt na stronie
 $lang['about_company'] = 'O firmie';
+$lang['order_sensor'] = 'Zamów sensor';
+
+$lang['monday'] = 'Poniedziałek';
+$lang['tuesday'] = 'Wtorek';
+$lang['wednesday'] = 'Środa';
+$lang['thursday'] = 'Czwartek';
+$lang['friday'] = 'Piątek';
+$lang['saturday'] = 'Sobota';
+$lang['sunday'] = 'Niedziela';
