@@ -36,6 +36,7 @@ $lang['information'] = 'Information';
 $lang['of_norm'] = 'of the norm';
 $lang['pollution'] = 'Air pollution';
 $lang['last_added'] = 'Last added';
+$lang['no_data'] = 'No data';
 
 //shortest as possible
 $lang['very_low'] = 'Very low';
@@ -52,3 +53,12 @@ $lang['no'] = 'No';
 $lang['privacy_policy'] = 'Privacy policy';
 $lang['contact'] = 'Contact';
 $lang['about_company'] = 'About company';
+$lang['order_sensor'] = 'Order sensor';
+
+$lang['monday'] = 'Monday';
+$lang['tuesday'] = 'Tuesday';
+$lang['wednesday'] = 'Wednesday';
+$lang['thursday'] = 'Thursday';
+$lang['friday'] = 'Friday';
+$lang['saturday'] = 'Saturday';
+$lang['sunday'] = 'Sunday';
