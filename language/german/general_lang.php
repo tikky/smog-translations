@@ -4,12 +4,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['hello'] = 'Hallo';
 
 $lang['more_information'] = 'Weitere Informationen';
-$lang['last_reading'] = 'Letzte Lesung';
+$lang['last_reading'] = 'Letzter Stand';
 $lang['view_report'] = 'Bericht anzeigen';
 
 $lang['temperature'] = 'Temperatur';
 $lang['humidity'] = 'Luftfeuchtigkeit';
-$lang['pressure'] = 'Druck';
+$lang['pressure'] = 'Luftdruck';
 $lang['temp_and_humm'] = 'Temperatur und Luftfeuchtigkeit';
 $lang['weather_forecast'] = 'Wettervorhersage';
 $lang['last_24h'] = 'Letzte 24h';
@@ -24,14 +24,14 @@ $lang['error_warning'] = 'Warnung';
 $lang['error'] = 'Fehler';
 $lang['average_data_per_hour'] = 'Durchschnittliche Daten pro Stunde';
 $lang['atmospheric_factors'] = 'Atmosphärische Faktoren';
-$lang['average'] = 'Durchschnitt';
+$lang['average'] = 'Mittelwert';
 $lang['day_temperature'] = 'Tagestemp';
 $lang['night_temperature'] = 'Nachttemp';
 $lang['particulate_matter'] = 'Feinstaub';
 $lang['today'] = 'Heute';
 $lang['tomorrow'] = 'Morgen';
 $lang['how_we_measure'] = 'Wie wir messen';
-$lang['search'] = 'Suche';
+$lang['search'] = 'Suchen';
 $lang['information'] = 'Information';
 $lang['of_norm'] = 'der Norm';
 $lang['pollution'] = 'Luftverschmutzung';
@@ -46,14 +46,14 @@ $lang['high'] = 'Hoch';
 $lang['very_high'] = 'Sehr hoch';
 //
 
-$lang['accept'] = 'Accept';
+$lang['accept'] = 'Akzeptieren';
 $lang['cancel'] = 'Abbrechen';
 $lang['yes'] = 'Ja';
 $lang['no'] = 'Nein';
 $lang['privacy_policy'] = 'Datenschutzerklärung';
 $lang['contact'] = 'Kontakt';
 $lang['about_company'] = 'Über die Firma';
-$lang['order_sensor'] = 'Bestellsensor';
+$lang['order_sensor'] = 'Sensor bestellen';
 
 $lang['monday'] = 'Montag';
 $lang['tuesday'] = 'Dienstag';
