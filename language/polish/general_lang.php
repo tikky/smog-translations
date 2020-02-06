@@ -39,11 +39,11 @@ $lang['last_added'] = 'Ostatnio dodane';
 $lang['no_data'] = 'Brak danych';
 
 //Jak najkrótsze tłumacznenia poniżych pięciu
-$lang['very_low'] = 'Najniższy'; 
+$lang['very_low'] = 'Bardzo niski'; 
 $lang['low'] = 'Niski';
 $lang['medium'] = 'Średni';
 $lang['high'] = 'Wysoki';
-$lang['very_high'] = 'Najwyższy';
+$lang['very_high'] = 'B. wysoki';
 //
 
 $lang['accept'] = 'Akceptuj';
@@ -54,3 +54,11 @@ $lang['privacy_policy'] = 'Polityka prywatności';
 $lang['contact'] = 'Kontakt'; //dział kontakt na stronie
 $lang['about_company'] = 'O firmie';
 $lang['order_sensor'] = 'Zamów sensor';
+
+$lang['monday'] = 'Poniedziałek';
+$lang['tuesday'] = 'Wtorek';
+$lang['wednesday'] = 'Środa';
+$lang['thursday'] = 'Czwartek';
+$lang['friday'] = 'Piątek';
+$lang['saturday'] = 'Sobota';
+$lang['sunday'] = 'Niedziela';

@@ -54,3 +54,11 @@ $lang['privacy_policy'] = 'Privacy policy';
 $lang['contact'] = 'Contact';
 $lang['about_company'] = 'About company';
 $lang['order_sensor'] = 'Order sensor';
+
+$lang['monday'] = 'Monday';
+$lang['tuesday'] = 'Tuesday';
+$lang['wednesday'] = 'Wednesday';
+$lang['thursday'] = 'Thursday';
+$lang['friday'] = 'Friday';
+$lang['saturday'] = 'Saturday';
+$lang['sunday'] = 'Sunday';
