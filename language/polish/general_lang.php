@@ -10,6 +10,7 @@ $lang['view_report'] = 'Zobacz raport';
 $lang['temperature'] = 'Temperatura';
 $lang['humidity'] = 'Wilgotność';
 $lang['pressure'] = 'Ciśnienie';
+$lang['wind'] = 'Wiatr';
 $lang['temp_and_humm'] = 'Temperatura i wilgotność';
 $lang['weather_forecast'] = 'Prognoza pogody';
 $lang['last_24h'] = 'Ostatnie 24h';

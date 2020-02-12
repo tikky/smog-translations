@@ -10,6 +10,7 @@ $lang['view_report'] = 'Zobrazit zprávu';
 $lang['temperature'] = 'Teplota';
 $lang['humidity'] = 'Vlhkost';
 $lang['pressure'] = 'Pressure';
+$lang['wind'] = 'Vítr';
 $lang['temp_and_humm'] = 'Teplota a vlhkost';
 $lang['weather_forecast'] = 'Předpověď počasí';
 $lang['last_24h'] = 'Posledních 24h';
